@@ -1,1 +1,1 @@
-# JS-light-dark-mode
+# JS Light / Dark Mode demo page
